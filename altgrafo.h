@@ -3,8 +3,6 @@
 
 struct Grafo
 {
-	int numVertices;
-	int numArestas;
 	struct Vertice *primeiroLista;
 };
 
